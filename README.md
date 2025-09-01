@@ -7,10 +7,8 @@ Non-elementary particles are extremely small objects that are composed of even s
 
 A particle width or decay width is the measure of an unstable particle's energy speed, which is **inversely proportional** to its lifetime. So you can deduce that a wider width indicates a shorter lifespan which leads to a faster decay. How does this even relate to R(Ds)? Okay hold on let me cook for a bit.
 
-Now consider the branching fraction which is the particle width of a specific decay over all decays. In other words it is the fraction of time a particle decays into a particular final state. We will denote the branching fraction by **B**. 
-
-
+Now consider the branching fraction which is the particle width of a specific decay over the particle width of all decays. In other words it is the fraction of time a particle decays into a particular final state. We will denote the branching fraction by **B**. 
 
 
 ### 2. BDT:
-In particle physics, when studying decays, there exists a lot of background (noise) which needs suppression. This background emerges from different types of decays, 
+In particle physics, when studying decays, there exists a lot of background (noise) which needs suppression. This background emerges from different types of decays (other than the one that is to be studied), cosmic rays, mis-identified particles, and the list goes on... A successful way to 
